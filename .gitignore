@@ -2,6 +2,10 @@
 bin/
 build/
 
+# Third-Party Directories
+third-party/boost_1_70_0/boost/*
+third-party/boost_1_70_0/lib/*
+
 # Files
 *.slo
 *.lo

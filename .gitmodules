@@ -4,3 +4,6 @@
 [submodule "third-party/detours"]
 	path = third-party/detours
 	url = https://github.com/microsoft/Detours
+[submodule "third-party/googletest"]
+	path = third-party/googletest
+	url = https://github.com/google/googletest
